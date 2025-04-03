@@ -50,15 +50,10 @@ A **Bayesian Network** was constructed using the **Hill Climbing search algorith
 
 ### **2. Conditional Probability Tables (CPTs)**
 Using **Maximum Likelihood Estimation (MLE)**, the model estimated the probability of failures given different conditions. These probabilities inform **predictive maintenance decisions**.
-
-#### **Example Insights:**
-- **High vibration + low temperature → Increased system failure probability**.  
-- **High noise level + medium alignment error → Elevated system load risk**.  
-
 ---
 
 ## **Key Results & Insights**
-- **Bayesian Network** successfully identified hidden dependencies between **vibration, emission levels, and system failures**.  
+- **Bayesian Network** successfully identified hidden dependencies between different factors.
 - **Proactive monitoring** of high-risk factors enables early maintenance interventions.  
 - The model provides a **probabilistic approach to fault detection**, unlike traditional threshold-based monitoring.  
 
